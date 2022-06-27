@@ -13,7 +13,7 @@ Bruteforce attack, For educational purpose only
 ## Run commands one by one
 For Termux and Window User
 ```
->> git clone https://github.com/itxzani/Facebook-BruteForce
+>> git clone https://github.com/itxcyberking/Facebook-BruteForce
 >> cd Facebook-BruteForce
 >> python3 -m pip install requests bs4
 >> python3 -m pip install mechanize
@@ -29,6 +29,7 @@ For Termux and Window User
 
 ## Explore More in Hacking ...
 https://web.facebook.com/Waqas1678/
+
 
 ~~~
 Happy Hacking Day !
